@@ -1,4 +1,4 @@
-# 注意1
+# 注意
 这是一个过时的项目，不再维护。但是，有更好的选择来快速创建一个socks5代理。访问 [gost doc](https://docs.ginuerzh.xyz/gost/socks/) 或 [brook doc](https://txthinking.github.io/brook/#/zh-cn/brook-socks5) 了解详细用法
 
 # Socks5 Install
